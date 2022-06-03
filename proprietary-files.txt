@@ -168,6 +168,9 @@ vendor/lib64/vendor.display.color@1.4.so
 vendor/lib64/vendor.display.color@1.5.so
 vendor/lib64/vendor.display.postproc@1.0.so
 
+# Display SVI
+vendor/etc/SVIConfig.xml
+
 # DPM
 system/framework/tcmclient.jar
 system_ext/bin/dpmd
